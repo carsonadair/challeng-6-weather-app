@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+}
+
+div {
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 217, 171);
+    font-weight: bolder;
+    padding: 20px;
+    background-color: grey;
+}
+
+.container-border {
+    border: 10px;
+    border-color: aliceblue;
+}
